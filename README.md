@@ -1,5 +1,5 @@
-Đây là Assignment Project môn PRJ301 của Trường ĐH FPT.
-Chủ đề: Website bán áo thun
-_Coded by Thái Dương_
+Assignment Project môn PRJ301 của Trường ĐH FPT.<br> 
+Chủ đề: <b>Website bán áo thun</b>
+<br>_Coded by Thái Dương_
 
-* Mong mọi người đừng copy y hệt project của mình mà chỉ nên tham khảo!
+Do chưa được test kỹ nên có thể có bugs,...
